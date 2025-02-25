@@ -5,7 +5,7 @@
 ## Raspberry Pi Speed Test Display on Waveshare 2.13 V4 e-Paper Screen
 
 
-This project runs a speed test using the speedtest-cli tool (https://github.com/sivel/speedtest-cli) and displays the results on a Waveshare 2.13 V4 Black, White, and Red e-Paper screen. The display is connected to a Raspberry Pi Zero 2 W. The speed test includes the ping, download, and upload speeds, which are extracted and shown in a formatted table on the e-Ink screen.
+This project runs a speed test using the speedtest-cli tool (https://github.com/sivel/speedtest-cli) and displays the results on a Waveshare 2.13 V4 Black, White, and Red e-Paper screen. The display is connected to a Raspberry Pi Zero 2 W. The display library comes from [this repository]( https://github.com/michaelbapst/Waveshare-2.13inch-E-Ink-display), the code is adapted to work with the *3 color e-Paper display Waveshare 2.13b V4*. The speed test includes the ping, download, and upload speeds, which are extracted and shown in a formatted table on the e-Ink screen.
 
 ## Hardware Setup:
 - Display: Waveshare 2.13 V4 Black, White, and Red e-Paper
