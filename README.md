@@ -1,6 +1,6 @@
 # Raspberry_pi_Waveshare_speedtest
 
-![Alt speedtest waveshare e-paper](images/speedtest_img.jpg)
+![speedtest waveshare e-paper](images/speedtest_img.jpg)
 
 ## Raspberry Pi Speed Test Display on Waveshare 2.13 V4 e-Paper Screen
 
@@ -16,6 +16,8 @@ Runs the speed test using the speedtest-cli command from this GitHub repository.
 Extracts the results (ping, download, and upload speeds) from the command output.
 Displays the results on the e-Ink screen in a clean table format, with values for each metric shown in red and units in small font.
 The display includes the current date and time at the top.
+
+[![YouTube - Raspberry Pi Speed Test Display on Waveshare 2.13 V4 e-Paper Screen](https://img.youtube.com/vi//8xkKf7nCjQg/0.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/8xkKf7nCjQg?si=QFOPPXqVExSk1Lo4)
 
 ## Prerequisites:
 Before running the script, make sure you have the following installed on your Raspberry Pi:
