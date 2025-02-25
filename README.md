@@ -17,7 +17,7 @@ Extracts the results (ping, download, and upload speeds) from the command output
 Displays the results on the e-Ink screen in a clean table format, with values for each metric shown in red and units in small font.
 The display includes the current date and time at the top.
 
-[![YouTube - Raspberry Pi Speed Test Display on Waveshare 2.13 V4 e-Paper Screen](https://img.youtube.com/vi//8xkKf7nCjQg/0.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/8xkKf7nCjQg?si=QFOPPXqVExSk1Lo4)
+[YouTube - Raspberry Pi Speed Test Display on Waveshare 2.13 V4 e-Paper Screen](https://www.youtube.com/shorts/8xkKf7nCjQg)
 
 ## Prerequisites:
 Before running the script, make sure you have the following installed on your Raspberry Pi:
